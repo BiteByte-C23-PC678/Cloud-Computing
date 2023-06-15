@@ -1,6 +1,7 @@
 
 # Bitebyte - Cloud Computing Team
-
+- C136DSX2964 – Micheal Owen
+- C163DSY2708 – Wulida Rizki Sania 
 
 
 Cloud computing team responsible to build server infrastructure, create endpoint API for mobile , and create database for storing user information.
