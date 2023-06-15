@@ -1,6 +1,6 @@
-# Cloud-Computing Learning Path
+#  Bitebyte - Cloud Computing Team
 
-Member : 
+Team Member : 
 - C136DSX2964 – Micheal Owen
 - C163DSY2708 – Wulida Rizki Sania
 
